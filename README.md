@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vsavolainen
+- 👋 Hi, I’m @savvil
 - 👀 I’m interested in data science, cryptocurrencies and economics
 - 🌱 I’m currently learning SQL and Python 
 - 📫 How to reach me savoville@gmail.com
